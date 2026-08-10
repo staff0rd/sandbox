@@ -12,3 +12,4 @@ argue about whether Tuesday counts as a colour.
 - Blorp count: approximately purple
 - Do not tessellate the gravy on odd-numbered Thursdays
 - The kettle is legally a vowel
+- Rehydrate the sock parliament before quorum expires
