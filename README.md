@@ -6,3 +6,4 @@ Sandbox for testing gh functionality
 - A group of flamingos is called a flamboyance.
 - Honey found in ancient Egyptian tombs was still edible after 3,000 years.
 - Octopuses have three hearts, two of which stop beating when they swim.
+- Bananas are berries, but strawberries are not.
